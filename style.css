@@ -1,0 +1,35 @@
+#Video_lecture{
+    background: linear-gradient(#f9fd03 0%, #920707 100%);
+}
+p{
+    font-size: 50px;
+    font-style: italic ;
+    color: blue;
+    box-shadow: 5px 5px 8px peachpuff;
+}
+img{
+    border: 5px solid black;
+    padding-right: 285px;
+}
+h2{
+    color: rgb(91, 7, 94);
+}
+.navbar_brand{
+    font-size: 25px;
+}
+#spt_pdeu{
+    font-size: 50px;
+    color: chartreuse;
+}
+#About_me{
+    background: linear-gradient(#60ebeb 0%, #f9fd03 100%);
+}
+navbar-inverse{
+    
+    top:0 !important;
+    z-index:99999 !important;
+    position:fixed !important;
+}
+li hover{
+color:skyblue;
+}
