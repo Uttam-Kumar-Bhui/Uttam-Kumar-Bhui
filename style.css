@@ -1,15 +1,8 @@
-#Video_lecture{
-    background: linear-gradient(#f9fd03 0%, #920707 100%);
-}
+
 p{
-    font-size: 50px;
-    font-style: italic ;
-    color: blue;
+    font-size: 25px;
+    color:red;
     box-shadow: 5px 5px 8px peachpuff;
-}
-img{
-    border: 5px solid black;
-    padding-right: 285px;
 }
 h2{
     color: rgb(91, 7, 94);
@@ -19,17 +12,57 @@ h2{
 }
 #spt_pdeu{
     font-size: 50px;
-    color: chartreuse;
+    color: rgb(0, 110, 255);
 }
-#About_me{
-    background: linear-gradient(#60ebeb 0%, #f9fd03 100%);
-}
-navbar-inverse{
+
+.my_nav_bar{
+    position: sticky;
+    bottom: 100;
+    z-index: 99999;
+    background-color: #60ebeb;  
     
-    top:0 !important;
-    z-index:99999 !important;
-    position:fixed !important;
 }
 li hover{
-color:skyblue;
+color:black;
+}
+#signature{
+    font-size: 25px;
+ color: black;
+}
+#education{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+}
+#Awards_Recognition{
+    text-align: left;
+    font-size: 25px;
+    
+}
+#Research{
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: left;
+    
+}
+img{
+   
+    border: 5px solid black;
+ padding-right: 400px;
+}
+#name{
+    color: purple;
+}
+h4{
+  padding-left: 400px;
+}
+b{
+    padding-right: 400px;
+    font-size: 30px;
+}
+#Courses{
+    text-align: left;
 }
